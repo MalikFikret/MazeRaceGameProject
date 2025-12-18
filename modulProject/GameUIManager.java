@@ -157,7 +157,7 @@ public class GameUIManager {
         
         // Labyrinth icon
         JLabel iconLabel = new JLabel();
-        ImageIcon labyrinthIcon = IconHelper.getIcon(IconHelper.LABYRINTH, 64, 64);
+        ImageIcon labyrinthIcon = IconHelper.getIcon(IconHelper.LABYRINTH, 150, 150);
         if (labyrinthIcon != null) {
             iconLabel.setIcon(labyrinthIcon);
         } else {

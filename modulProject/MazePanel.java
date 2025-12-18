@@ -222,6 +222,7 @@ public class MazePanel extends JPanel {
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         int maxWidth = Math.min(screenSize.width / 2 - 50, 600);
         int maxHeight = Math.min(screenSize.height - 200, 600);
+        
         return new Dimension(maxWidth, maxHeight);
     }
 }

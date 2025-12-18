@@ -66,6 +66,12 @@ public class MazeRaceGame extends JFrame {
         setLocationRelativeTo(null);
         setLayout(new CardLayout());
         
+        // Set the application icon (Window corner & Taskbar)
+        ImageIcon appIcon = IconHelper.getIcon(IconHelper.LABYRINTH, 128, 128);
+        if (appIcon != null) {
+            setIconImage(appIcon.getImage());
+        }
+        
         // Initialize managers
         leaderboard = new Leaderboard();
         mazeGenerator = new MazeGenerator(MAZE_WIDTH, MAZE_HEIGHT);
