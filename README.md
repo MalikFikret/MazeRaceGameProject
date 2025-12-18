@@ -42,7 +42,7 @@
 
 | Main Menu |
 |:---:|
-| <img src="Assists/Menu.png" width="400"> |
+| <img src="Assists/MainMenu.png" width="400"> |
 
 | Gameplay |
 |:---:|
@@ -60,7 +60,7 @@
 
 This project was created by a team of Computer Engineering students:
 
-* **Malik Fikret**
+* **Malik FİKRET**
 * **Elifnur ŞİMŞEK**
 * **Asya Mine ATİK**
 
