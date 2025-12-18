@@ -38,7 +38,16 @@
 
 ## 📸 Screenshots
 
-*(You can add screenshots here later!)*
+| Main Menu |
+|:---:|
+| <img src="Assists/Menu.png" width="400"> |
 
+| Gameplay |
+|:---:|
+| <img src="Assists/GamePlay.png" width="400"> |
+
+| AI Mode / Leaderboard |
+|:---:|
+| <img src="Assists/AIMode.png" width="400"> |
 ---
 *Developed by [Malik Fikret, Elifnur Şimşek, Asya Mine Atik] - Computer Engineering Student*
