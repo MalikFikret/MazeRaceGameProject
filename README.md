@@ -44,7 +44,7 @@
 
 | Gameplay |
 |:---:|
-| <img src="Assists/GamePlay.png" width="400"> |
+| <img src="Assists/GamePLay.png" width="400"> |
 
 | AI Mode / Leaderboard |
 |:---:|
