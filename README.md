@@ -27,11 +27,13 @@
 * `Leaderboard.java`: Handles I/O operations for saving/loading scores and map data.
 * `MazePanel.java`: Custom `JPanel` responsible for 3D-style rendering of walls and players.
 
-## 🎮 How to Run
+## 🎮 How to Download & Run
 
-1.  Clone the repository:
+1.  **Open your Command Prompt** (cmd).
+
+2.  **Copy and paste this entire line** (this moves to your Downloads folder and downloads the game in one step):
     ```bash
-    git clone [https://github.com/MalikFikret/MazeRazeGameProject.git](https://github.com/MalikFiket/MazeRazeGameProject.git)
+    cd Downloads && git clone https://github.com/MalikFikret/MazeRaceGameProject.git
     ```
 2.  Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or NetBeans).
 3.  Run the `Main.java` file located in the `modulProject` package.
@@ -49,5 +51,17 @@
 | AI Mode / Leaderboard |
 |:---:|
 | <img src="Assists/AIMode.png" width="400"> |
+
+<br>
+
 ---
-*Developed by [Malik Fikret, Elifnur Şimşek, Asya Mine Atik] - Computer Engineering Student*
+
+### 💻 Developed By
+
+This project was created by a team of Computer Engineering students:
+
+* **Malik Fikret**
+* **Elifnur ŞİMŞEK**
+* **Asya Mine ATİK**
+
+---
