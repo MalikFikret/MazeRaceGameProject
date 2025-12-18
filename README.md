@@ -2,6 +2,17 @@
 
 **Maze Race** is a competitive labyrinth-solving game built in Java. It features a robust **Human vs. AI** mode driven by a Depth-First Search (DFS) algorithm, as well as a local **2-Player** mode. The project demonstrates advanced object-oriented design, custom Swing UI rendering, and procedural map generation.
 
+## 📥 Download & Play (No Coding Required)
+
+Want to play immediately? You don't need to install Java editors!
+
+👉 **[Click here to download the Maze Race Game (v1.0)](https://github.com/MalikFikret/MazeRaceGameProject/releases/tag/v1.0)**
+
+* **Windows:** Download `Maze Race.exe`
+* **Mac/Linux:** Download `Maze Race.jar`
+
+---
+
 ## 🚀 Key Features
 
 * **🤖 Intelligent AI Opponent:** Implements a **Depth-First Search (DFS)** algorithm with backtracking to solve mazes dynamically in real-time.
@@ -27,7 +38,9 @@
 * `Leaderboard.java`: Handles I/O operations for saving/loading scores and map data.
 * `MazePanel.java`: Custom `JPanel` responsible for 3D-style rendering of walls and players.
 
-## 🎮 How to Download & Run
+## 🎮 How to Download Source Code
+
+If you want to view the code or run it in Eclipse:
 
 1.  **Open your Command Prompt** (cmd).
 
@@ -35,8 +48,10 @@
     ```bash
     cd Downloads && git clone https://github.com/MalikFikret/MazeRaceGameProject.git
     ```
-2.  Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or NetBeans).
-3.  Run the `Main.java` file located in the `modulProject` package.
+
+3.  Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or NetBeans).
+
+4.  Run the `Main.java` file located in the `modulProject` package.
 
 ## 📸 Screenshots
 
