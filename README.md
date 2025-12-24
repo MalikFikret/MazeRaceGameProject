@@ -66,6 +66,6 @@ This project was created by a team of Computer Engineering students:
 
 * **Malik FİKRET**
 * **Elifnur ŞİMŞEK**
-* **Asya Mine ATİK**
+* **Asya Mina ATİK**
 
 ---
